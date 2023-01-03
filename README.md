@@ -1,2 +1,1 @@
-# levels
-Firmware, circuit schematics, and PCB files for custom audio visualizer circuit board.
+Levels is an audio visualizer circuit board. When given audio signals as input, the board will display the magnitude of the sound on a row of LED lights. This repository contains the hardware and firmware files created as part of the project.
