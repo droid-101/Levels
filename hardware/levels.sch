@@ -22760,27 +22760,27 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <plain>
 </plain>
 <instances>
-<instance part="SUPPLY1" gate="G$1" x="-66.04" y="132.08" smashed="yes">
-<attribute name="VALUE" x="-67.945" y="135.255" size="1.778" layer="96"/>
+<instance part="SUPPLY1" gate="G$1" x="48.26" y="12.7" smashed="yes">
+<attribute name="VALUE" x="46.355" y="15.875" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY2" gate="PE" x="-38.1" y="93.98" smashed="yes">
-<attribute name="VALUE" x="-42.545" y="89.281" size="1.778" layer="96"/>
+<instance part="SUPPLY2" gate="PE" x="76.2" y="-25.4" smashed="yes">
+<attribute name="VALUE" x="71.755" y="-30.099" size="1.778" layer="96"/>
 </instance>
-<instance part="IC1" gate="A1" x="-38.1" y="116.84" smashed="yes">
-<attribute name="NAME" x="-45.72" y="122.555" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-45.72" y="120.015" size="1.778" layer="96"/>
+<instance part="IC1" gate="A1" x="76.2" y="-2.54" smashed="yes">
+<attribute name="NAME" x="68.58" y="3.175" size="1.778" layer="95"/>
+<attribute name="VALUE" x="68.58" y="0.635" size="1.778" layer="96"/>
 </instance>
 <instance part="IC2" gate="A" x="71.12" y="88.9" smashed="yes">
 <attribute name="NAME" x="73.66" y="92.075" size="1.778" layer="95"/>
 <attribute name="VALUE" x="73.66" y="83.82" size="1.778" layer="96"/>
 </instance>
-<instance part="LED1" gate="G$1" x="20.32" y="106.68" smashed="yes">
-<attribute name="NAME" x="23.876" y="102.108" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="26.035" y="102.108" size="1.778" layer="96" rot="R90"/>
+<instance part="LED1" gate="G$1" x="134.62" y="-12.7" smashed="yes">
+<attribute name="NAME" x="138.176" y="-17.272" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="140.335" y="-17.272" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R1" gate="G$1" x="20.32" y="116.84" smashed="yes" rot="R90">
-<attribute name="NAME" x="18.8214" y="113.03" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="23.622" y="113.03" size="1.778" layer="96" rot="R90"/>
+<instance part="R1" gate="G$1" x="134.62" y="-2.54" smashed="yes" rot="R90">
+<attribute name="NAME" x="133.1214" y="-6.35" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="137.922" y="-6.35" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="C1" gate="G$1" x="33.02" y="111.76" smashed="yes">
 <attribute name="NAME" x="34.544" y="112.141" size="1.778" layer="95"/>
@@ -22794,28 +22794,28 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <attribute name="NAME" x="93.98" y="66.04" size="1.778" layer="95"/>
 <attribute name="VALUE" x="93.98" y="63.5" size="1.778" layer="96"/>
 </instance>
-<instance part="JP1" gate="A" x="-71.12" y="101.6" smashed="yes" rot="R90">
-<attribute name="NAME" x="-71.12" y="100.33" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="-71.12" y="107.315" size="1.778" layer="96" rot="R180"/>
+<instance part="JP1" gate="A" x="43.18" y="-17.78" smashed="yes" rot="R90">
+<attribute name="NAME" x="43.18" y="-19.05" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="43.18" y="-12.065" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="SP1" gate="G$1" x="109.22" y="58.42" smashed="yes" rot="R270">
 <attribute name="NAME" x="115.57" y="62.23" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="106.045" y="62.23" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="SUPPLY3" gate="+5V" x="7.62" y="132.08" smashed="yes">
-<attribute name="VALUE" x="5.715" y="135.255" size="1.778" layer="96"/>
+<instance part="SUPPLY3" gate="+5V" x="121.92" y="12.7" smashed="yes">
+<attribute name="VALUE" x="120.015" y="15.875" size="1.778" layer="96"/>
 </instance>
 <instance part="C2" gate="G$1" x="43.18" y="127" smashed="yes">
 <attribute name="NAME" x="44.196" y="127.635" size="1.778" layer="95"/>
 <attribute name="VALUE" x="44.196" y="122.809" size="1.778" layer="96"/>
 </instance>
-<instance part="C3" gate="G$1" x="-15.24" y="106.68" smashed="yes">
-<attribute name="NAME" x="-14.224" y="107.315" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-14.224" y="102.489" size="1.778" layer="96"/>
+<instance part="C3" gate="G$1" x="99.06" y="-12.7" smashed="yes">
+<attribute name="NAME" x="100.076" y="-12.065" size="1.778" layer="95"/>
+<attribute name="VALUE" x="100.076" y="-16.891" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="0" y="106.68" smashed="yes">
-<attribute name="NAME" x="1.524" y="107.061" size="1.778" layer="95"/>
-<attribute name="VALUE" x="1.524" y="101.981" size="1.778" layer="96"/>
+<instance part="C4" gate="G$1" x="114.3" y="-12.7" smashed="yes">
+<attribute name="NAME" x="115.824" y="-12.319" size="1.778" layer="95"/>
+<attribute name="VALUE" x="115.824" y="-17.399" size="1.778" layer="96"/>
 </instance>
 <instance part="C5" gate="G$1" x="86.36" y="83.82" smashed="yes">
 <attribute name="NAME" x="87.376" y="84.455" size="1.778" layer="95"/>
@@ -22825,9 +22825,9 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <attribute name="NAME" x="41.6814" y="107.95" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="46.482" y="107.95" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="S2" gate="BEF1" x="-55.88" y="114.3" smashed="yes" rot="R270">
-<attribute name="NAME" x="-58.42" y="109.22" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-58.42" y="106.68" size="1.778" layer="96"/>
+<instance part="S2" gate="BEF1" x="58.42" y="-5.08" smashed="yes" rot="R270">
+<attribute name="NAME" x="55.88" y="-10.16" size="1.778" layer="95"/>
+<attribute name="VALUE" x="55.88" y="-12.7" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY4" gate="PE" x="109.22" y="45.72" smashed="yes">
 <attribute name="VALUE" x="104.775" y="41.021" size="1.778" layer="96"/>
@@ -22988,42 +22988,42 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <net name="+9V" class="0">
 <segment>
 <pinref part="SUPPLY1" gate="G$1" pin="+9V"/>
-<wire x1="-66.04" y1="129.54" x2="-66.04" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="10.16" x2="48.26" y2="-5.08" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="A" pin="2"/>
-<wire x1="-66.04" y1="114.3" x2="-66.04" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="-66.04" y1="104.14" x2="-68.58" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-5.08" x2="48.26" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-15.24" x2="45.72" y2="-15.24" width="0.1524" layer="91"/>
 <pinref part="S2" gate="BEF1" pin="P"/>
-<wire x1="-60.96" y1="114.3" x2="-66.04" y2="114.3" width="0.1524" layer="91"/>
-<junction x="-66.04" y="114.3"/>
+<wire x1="53.34" y1="-5.08" x2="48.26" y2="-5.08" width="0.1524" layer="91"/>
+<junction x="48.26" y="-5.08"/>
 <pinref part="S2" gate="BEF1" pin="S"/>
-<wire x1="-50.8" y1="111.76" x2="-50.8" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="-50.8" y1="106.68" x2="-60.96" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="-60.96" y1="106.68" x2="-60.96" y2="114.3" width="0.1524" layer="91"/>
-<junction x="-60.96" y="114.3"/>
+<wire x1="63.5" y1="-7.62" x2="63.5" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="-12.7" x2="53.34" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="-12.7" x2="53.34" y2="-5.08" width="0.1524" layer="91"/>
+<junction x="53.34" y="-5.08"/>
 </segment>
 </net>
 <net name="PE" class="0">
 <segment>
 <pinref part="IC1" gate="A1" pin="GND"/>
 <pinref part="SUPPLY2" gate="PE" pin="PE"/>
-<wire x1="-38.1" y1="109.22" x2="-38.1" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="-10.16" x2="76.2" y2="-17.78" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="-"/>
-<wire x1="-38.1" y1="101.6" x2="-38.1" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="-38.1" y1="99.06" x2="-38.1" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="-15.24" y1="101.6" x2="-15.24" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="-15.24" y1="99.06" x2="-38.1" y2="99.06" width="0.1524" layer="91"/>
-<junction x="-38.1" y="99.06"/>
+<wire x1="76.2" y1="-17.78" x2="76.2" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="-20.32" x2="76.2" y2="-22.86" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="-17.78" x2="99.06" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="-20.32" x2="76.2" y2="-20.32" width="0.1524" layer="91"/>
+<junction x="76.2" y="-20.32"/>
 <pinref part="C4" gate="G$1" pin="2"/>
-<wire x1="0" y1="101.6" x2="0" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="0" y1="99.06" x2="-15.24" y2="99.06" width="0.1524" layer="91"/>
-<junction x="-15.24" y="99.06"/>
+<wire x1="114.3" y1="-17.78" x2="114.3" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="-20.32" x2="99.06" y2="-20.32" width="0.1524" layer="91"/>
+<junction x="99.06" y="-20.32"/>
 <pinref part="JP1" gate="A" pin="1"/>
-<wire x1="-68.58" y1="101.6" x2="-38.1" y2="101.6" width="0.1524" layer="91"/>
-<junction x="-38.1" y="101.6"/>
+<wire x1="45.72" y1="-17.78" x2="76.2" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="76.2" y="-17.78"/>
 <pinref part="LED1" gate="G$1" pin="C"/>
-<wire x1="20.32" y1="101.6" x2="20.32" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="20.32" y1="99.06" x2="0" y2="99.06" width="0.1524" layer="91"/>
-<junction x="0" y="99.06"/>
+<wire x1="134.62" y1="-17.78" x2="134.62" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="-20.32" x2="114.3" y2="-20.32" width="0.1524" layer="91"/>
+<junction x="114.3" y="-20.32"/>
 </segment>
 <segment>
 <pinref part="SP1" gate="G$1" pin="2"/>
@@ -23111,21 +23111,21 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <net name="+5V" class="0">
 <segment>
 <pinref part="IC1" gate="A1" pin="VO"/>
-<wire x1="-27.94" y1="116.84" x2="-15.24" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="-2.54" x2="99.06" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="+"/>
-<wire x1="-15.24" y1="116.84" x2="-15.24" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="-2.54" x2="99.06" y2="-10.16" width="0.1524" layer="91"/>
 <pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="0" y1="109.22" x2="0" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="0" y1="116.84" x2="-15.24" y2="116.84" width="0.1524" layer="91"/>
-<junction x="-15.24" y="116.84"/>
+<wire x1="114.3" y1="-10.16" x2="114.3" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="-2.54" x2="99.06" y2="-2.54" width="0.1524" layer="91"/>
+<junction x="99.06" y="-2.54"/>
 <pinref part="SUPPLY3" gate="+5V" pin="+5V"/>
-<wire x1="7.62" y1="129.54" x2="7.62" y2="127" width="0.1524" layer="91"/>
-<wire x1="7.62" y1="116.84" x2="0" y2="116.84" width="0.1524" layer="91"/>
-<junction x="0" y="116.84"/>
-<wire x1="7.62" y1="116.84" x2="7.62" y2="127" width="0.1524" layer="91"/>
-<wire x1="7.62" y1="127" x2="20.32" y2="127" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="10.16" x2="121.92" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="-2.54" x2="114.3" y2="-2.54" width="0.1524" layer="91"/>
+<junction x="114.3" y="-2.54"/>
+<wire x1="121.92" y1="-2.54" x2="121.92" y2="7.62" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="7.62" x2="134.62" y2="7.62" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="20.32" y1="127" x2="20.32" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="7.62" x2="134.62" y2="2.54" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SUPPLY13" gate="+5V" pin="+5V"/>
@@ -23166,14 +23166,14 @@ Source: &lt;a href="https://4donline.ihs.com/images/VipMasterIC/IC/KYCO/KYCOS022
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
 <pinref part="LED1" gate="G$1" pin="A"/>
-<wire x1="20.32" y1="111.76" x2="20.32" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="-7.62" x2="134.62" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="S2" gate="BEF1" pin="O"/>
 <pinref part="IC1" gate="A1" pin="VI"/>
-<wire x1="-50.8" y1="116.84" x2="-48.26" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="-2.54" x2="66.04" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
